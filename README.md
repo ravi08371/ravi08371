@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 👨‍💻 All of my projects are available at [https://ravi08371.github.io/HTML---CSS-Mini-Project-Portfolio/]([https://ravi08371.github.io/HTML---CSS-Mini-Project-Portfolio/](https://ravi08371.github.io/Personal-Portfolio/))
+- 👨‍💻 All of my projects are available at [https://ravi08371.github.io/HTML---CSS-Mini-Project-Portfolio/](https://ravi08371.github.io/Personal-Portfolio/))
 
 - 💬 Ask me about **Java,DSA,MERN Stack**
 
