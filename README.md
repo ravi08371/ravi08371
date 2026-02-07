@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **E-commerce Project**
 
-- 🌱 I’m currently learning **Reactjs**
+
 
 - 👨‍💻 All of my projects are available at [https://ravi08371.github.io/HTML---CSS-Mini-Project-Portfolio/](https://ravi08371.github.io/Personal-Portfolio/))
 
