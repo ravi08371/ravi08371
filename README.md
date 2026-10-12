@@ -1,10 +1,16 @@
-<!-- Banner -->
+<!-- ===== BANNER ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:8e2de2&height=200&section=header&text=Ravi%20Singh&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Lifelong%20Learner&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:8e2de2&height=200&section=header&text=Ravi%20Singh&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast&descSize=20&descAlignY=58" width="100%"/>
+
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+with+RAG+%26+LLMs;Lifelong+Learner+from+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG"/></a>
+
+<br/>
 
 <a href="https://twitter.com/ravi08371"><img src="https://img.shields.io/twitter/follow/ravi08371?logo=twitter&style=for-the-badge&color=1DA1F2" alt="twitter"/></a>
-<img src="https://komarev.com/ghpvc/?username=ravi08371&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=ravi08371&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="views"/>
+<img src="https://img.shields.io/badge/India-%F0%9F%87%AE%F0%9F%87%B3-orange?style=for-the-badge" alt="india"/>
 
 </div>
 
@@ -12,26 +18,12 @@
 
 ### 🧑‍💻 About Me
 
-```python
-class RaviSingh:
-    def __init__(self):
-        self.location   = "India 🇮🇳"
-        self.role       = "Developer & AI Builder"
-        self.stack      = ["Java", "MERN", "Python"]
-        self.learning   = ["AI / ML", "RAG", "LLMs", "Agentic Systems"]
-        self.building   = "An E-commerce Project"
-        self.fun_fact   = "I think I'm a time traveller 🕐"
-
-    def say_hi(self):
-        print("Thanks for stopping by — let's build something!")
-```
-
+- 🧑‍💻 **Full Stack Developer** working across the **MERN stack** & **Java**
 - 🤖 Currently diving deep into **AI, Machine Learning, RAG pipelines & LLMs**
-- 🔭 Building an **E-commerce Project** with the MERN stack
 - 🌱 Exploring **agentic AI, vector databases & retrieval-augmented generation**
-- 👨‍💻 Projects live on my **[Portfolio →](https://ravi08371.github.io/Personal-Portfolio/)**
 - 💬 Ask me about **Java, DSA, MERN Stack & AI**
 - 📫 Reach me at **ravi08371@gmail.com**
+- ⚡ Fun fact: **I think I'm a time traveller** 🕐
 
 ---
 
@@ -39,12 +31,12 @@ class RaviSingh:
 
 **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" alt="languages"/>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css" alt="languages"/>
 </p>
 
 **AI / ML**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" alt="ai"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="ai"/>
 </p>
 
 **Web & Tools**
@@ -71,6 +63,14 @@ class RaviSingh:
 
 ---
 
+### ✍️ Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
+</div>
+
+---
+
 ### 🤝 Connect With Me
 
 <div align="center">
@@ -79,6 +79,12 @@ class RaviSingh:
   <a href="https://instagram.com/ravisingh.19"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://medium.com/@ravi08371"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="mailto:ravi08371@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <b>⭐ If you like my work, consider starring my repositories! ⭐</b>
 </div>
 
 <div align="center">
